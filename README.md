@@ -1,2 +1,1 @@
-# me
-Beginner Boost Notes
+# Beginner Boost Notes
