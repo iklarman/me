@@ -7,7 +7,10 @@ But, when I have an ordered or numbered list:
 * First bullet
 * Second bullet
 
+What if I want *italic* or **bold** or ***bolditalic***?
 
+How about something that look like `code`?
+Go
 ```go
 package main
 
@@ -17,10 +20,6 @@ func main() {
 fmt.Println("Hello world!)
 }
 ```
-
-What if I want *italic* or **bold** or ***bolditalic***?
-
-How about something that look like `code`?
 
 And when I hace a URL I want it to print also so I slways write it out like this:
 
