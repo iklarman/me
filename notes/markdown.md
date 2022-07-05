@@ -9,8 +9,7 @@ But, when I have an ordered or numbered list:
 
 What if I want *italic* or **bold** or ***bolditalic***?
 
-How about something that look like `code`?
-Go
+How about something that look like `code`? (like Go)
 ```go
 package main
 
@@ -23,7 +22,7 @@ fmt.Println("Hello world!)
 
 And when I hace a URL I want it to print also so I slways write it out like this:
 
-https://google.com rwx.gg/lang/md
+https://google.com | https://rwx.gg/lang/md
 
 * I put references at the bottom
 
